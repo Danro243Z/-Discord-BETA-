@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Управление Ботами Discord (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Управление Ботами Discord (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
